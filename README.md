@@ -1,3 +1,3 @@
 # github_pavan
 
-author - pavan
+Author - pavan
